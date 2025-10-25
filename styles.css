@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+#body{
+	width:1100px;
+	background:lightsteelblue
+}
+.image-row{
+	width:300px;
+}
+.text-row{
+	width:600px;
+	text-align:center
+}
+
+.img{
+	object-fit:fill;
+	width:300px;
+	height:200px
+}
